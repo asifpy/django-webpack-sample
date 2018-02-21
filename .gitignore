@@ -2,6 +2,7 @@
 *.pyc
 __pycache__
 .coverage
+db.sqlite3
 webpack-stats.json
 django_webpack_sample/assets/dist
 /node_modules
