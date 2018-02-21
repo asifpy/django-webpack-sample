@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+__pycache__
+.coverage
+webpack-stats.json
+django_webpack_sample/assets/dist
+/node_modules
